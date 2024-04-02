@@ -1,4 +1,6 @@
 # Decompilers
+## Index
+
 ## Introduction:
 
 Welcome to the Decompilers repository, a collaborative hub for enthusiasts and professionals alike dedicated to the fascinating world of reverse engineering and decompilation. Here, we delve into the intricate process of dissecting binary code to unveil its underlying logic, functionality, and vulnerabilities.
@@ -548,3 +550,26 @@ Below are frequently asked questions (FAQ) sections for each decompiler, address
 8. **JetBrains dotPeek**:
    - [JetBrains DotPeek Guide](https://www.jetbrains.com/help/decompiler/Getting_Started_with_dotPeek.html) - Official guide to getting started with dotPeek.
    - [JetBrains Blog](https://blog.jetbrains.com/) - Official blog featuring articles on JetBrains products and development tools.
+
+## Issues, discussions and extra information
+
+"Issues" can be used for:
+
+- Asking questions about the usage of decompilers.
+- Reporting issues encountered while using the tools.
+- Sharing ideas for new features or improvements.
+
+You can label the issues to organize them by topics and make searching easier.
+
+"Discussions" are ideal for:
+
+- Broader and collaborative conversations.
+- Discussing topics of interest related to decompilation and reverse engineering.
+- Sharing experiences, tutorials, and useful resources.
+
+We invite you to actively participate in both spaces. Your questions, comments, and contributions are valuable for enriching our community and enhancing our tools.
+
+We look forward to seeing your questions and contributions soon!
+
+Best regards,
+[Decompilers/GIJAXF]
