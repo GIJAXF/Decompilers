@@ -1,4 +1,7 @@
 # Decompilers
+> [!WARNING]
+> Use these applications ethically and not to do evil.
+> 
 ## Index
 
 ## Introduction:
@@ -10,9 +13,6 @@ Decompilers play a pivotal role in various domains, ranging from software debugg
 Whether you're a seasoned expert or a curious beginner, join us on this journey as we explore the depths of software disassembly, uncover hidden insights, and advance the field of reverse engineering together. Let's unravel the mysteries of code and empower ourselves with knowledge and innovation. Welcome to Decompilers - where code reveals its secrets.
 
 ## General information about each one
-> [!WARNING]
-> Use these applications ethically and not to do evil.
-> 
 
 **Ghidra**:
 Developed by the United States National Security Agency, Ghidra is an open-source suite of analysis tools that includes disassembly, assembly, and decompilation functions. It is highly configurable and supports a wide range of processor architectures.
