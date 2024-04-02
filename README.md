@@ -1,6 +1,6 @@
 # Decompilers
 > [!WARNING]
-> Use these applications ethically and not to do evil.
+> This repository is intended for people to learn and solidify their knowledge base. Additionally, this repository is meant for ethical and legal purposes, however, it is up to individuals to decide how they will use this information.
 
 ## Introduction:
 
